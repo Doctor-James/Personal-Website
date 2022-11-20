@@ -82,6 +82,6 @@ email: 'zoujialu80@gmail.com'
 highlight_name: true
 ---
 
-I am a Master candidate at the Institute of Artificial Intelligence and [School of Electronic Information and Communications (EIC)](http://eic.hust.edu.cn/English/Home.htm), [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), supervised by [Prof. Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/) and [Prof. Xinggang Wang](https://xinggangw.info/). I received my B.E. degree from OEI, HUST in 2023. My research interests mainly lie in artificial intelligence, computational vision and electronic design automation.
+I am a Master candidate at the Institute of Artificial Intelligence and [School of Electronic Information and Communications ](http://eic.hust.edu.cn/English/Home.htm)(EIC), [Huazhong University of Science and Technology ](http://english.hust.edu.cn/)(HUST), supervised by [Prof. Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/) and [Prof. Xinggang Wang](https://xinggangw.info/). I received my B.E. degree from OEI, HUST in 2023. My research interests mainly lie in artificial intelligence, computational vision and electronic design automation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
