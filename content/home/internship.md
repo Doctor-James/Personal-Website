@@ -22,31 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master
-    company: Huazhong University of Science and Technology
-    company_url: 'http://english.hust.edu.cn/'
+  - title: Intern
+    company: Horizon Robotics
+    company_url: 'https://cn.horizon.ai/index.html'
     # company_logo: HUST
-    location: Wuhan, China
-    date_start: '2023-09-01'
+    location: Beijin, China
+    date_start: '2022-11-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Master in Institute of Artificial Intelligence and School of Electronic Information and Communications(EIC)
-
-
-  - title: Undergraduate
-    company: Huazhong University of Science and Technology
-    company_url: 'http://english.hust.edu.cn/'
-    # company_logo: HUST
-    location: Wuhan, China
-    date_start: '2019-09-01'
-    date_end: '2023-06-30'
-    description: |2-
-        Responsibilities include:
-        
-        * B.Eng. in Microelectronics Science and Engineering, School of Optical and Electronic Information
-        * GPA:3.88/4.00(Rank:10/82)
+        * Intern in Basic Algorithms Department
 
 design:
   columns: '2'
