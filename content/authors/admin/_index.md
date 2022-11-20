@@ -52,7 +52,10 @@ social:
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #  - icon: linkedin
 #      icon_pack: fab
-#      link: https://www.linkedin.com/ 
+#      link: https://www.linkedin.com/
+  - icon: weixin
+      icon_pack: fab
+      link: assets/media/icon.png
   - icon: github
     icon_pack: fab
     link: https://github.com/Doctor-James
