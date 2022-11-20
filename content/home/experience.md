@@ -27,7 +27,7 @@ experience:
     company_url: 'http://english.hust.edu.cn/'
     company_logo: org-gc
     location: Wuhan, China
-    date_start: 'July 2023'
+    date_start: '2023-09-01'
     date_end: 'Present'
     description: |2-
         Responsibilities include:
@@ -40,8 +40,8 @@ experience:
     company_url: 'http://english.hust.edu.cn/'
     company_logo: org-x
     location: Wuhan, China
-    date_start: 'Sep 2019'
-    date_end: 'July 2023'
+    date_start: '2019-09-01'
+    date_end: '2023-06-30'
     description: |2-
         Responsibilities include:
         
