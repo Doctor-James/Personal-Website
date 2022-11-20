@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Internship
+title: Internships
 subtitle:
 
 # Date format for experience
@@ -33,6 +33,7 @@ experience:
         Responsibilities include:
         
         * Intern in Basic Algorithms Department
+        * working with [Dr. Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ)
 
 design:
   columns: '2'
