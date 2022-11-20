@@ -55,7 +55,7 @@ social:
 #      link: https://www.linkedin.com/
   - icon: weixin
       icon_pack: fab
-      link: assets/media/icon.png
+      link: uploads/weixin.png
   - icon: github
     icon_pack: fab
     link: https://github.com/Doctor-James
