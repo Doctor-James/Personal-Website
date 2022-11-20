@@ -53,9 +53,9 @@ social:
 #  - icon: linkedin
 #      icon_pack: fab
 #      link: https://www.linkedin.com/
-  - icon: weixin
-      icon_pack: fab
-      link: uploads/weixin.png
+#  - icon: weixin
+#      icon_pack: fab
+#      link: uploads/weixin.png
   - icon: github
     icon_pack: fab
     link: https://github.com/Doctor-James
@@ -69,14 +69,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zoujialu80@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Master candidate at the Institute of Artificial Intelligence and School of Electronic Information and Communications (EIC), Huazhong University of Science and Technology (HUST), supervised by Prof. Wenyu Liu and Prof. Xinggang Wang. I received my B.E. degree from OEI, HUST in 2023. My research interests mainly lie in artificial intelligence, computational vision and electronic design automation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
