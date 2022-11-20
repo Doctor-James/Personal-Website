@@ -36,7 +36,7 @@ content:
   #  country_code: US
   coordinates:
     latitude: '30.5131154'
-    longitude: '114.4214808'
+    longitude: '114.4214108'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #  - 'Monday 10:00 to 13:00'
