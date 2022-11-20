@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Wuhan, China
     date_start: '2023-09-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
