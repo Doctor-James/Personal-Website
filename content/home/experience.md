@@ -25,7 +25,7 @@ experience:
   - title: Master
     company: Huazhong University of Science and Technology
     company_url: 'http://english.hust.edu.cn/'
-    # company_logo: HUST
+    company_logo: HUST
     location: Wuhan, China
     date_start: '2023-09-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Undergraduate
     company: Huazhong University of Science and Technology
     company_url: 'http://english.hust.edu.cn/'
-    # company_logo: HUST
+    company_logo: HUST
     location: Wuhan, China
     date_start: '2019-09-01'
     date_end: '2023-06-30'
