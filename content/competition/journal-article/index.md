@@ -2,8 +2,8 @@
 title: 
 authors:
 author_notes:
-date: ""
-doi: ""
+date: 
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -12,7 +12,7 @@ publishDate: "2020-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*National first prize of the 9th National University Students' Opt-Sci-Tech Competition*,2020"
@@ -24,19 +24,16 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
 
 # links:
 # - name: ""
 #   url: ""
+url_code: 'https://github.com/Doctor-James/Light_YOLO'
 url_video: 'https://www.bilibili.com/video/BV1Uq4y1K755/?spm_id_from=333.999.list.card_archive.click&vd_source=8a196b748d509b7735169a013d4b46d8'
-url_pdf: 
-url_code: ''
+url_pdf:
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
 url_source: ''
 
 
