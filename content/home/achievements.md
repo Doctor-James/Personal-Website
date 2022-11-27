@@ -20,3 +20,4 @@ weight: 70
 * AI Crowd Blitz Hackathon - **Rank 7/400** (2020)
 * National Science Olympiad - **State Rank 1** (2015)
 * Junior Science Talent Search Examination - **Rank 26/70000** (2014)
+* **National first prize** of the 9th National University Students' Opt-Sci-Tech Competition, 2020
