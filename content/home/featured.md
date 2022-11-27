@@ -6,10 +6,10 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = '<a href="https://cristianrcv.netlify.com/publication/">See all publications</a>'
+subtitle = '<a href="https://jialv-zou.netlify.app//publication/">See all publications</a>'
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
